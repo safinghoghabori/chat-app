@@ -1,5 +1,8 @@
 <h1 align="center">Chat App</h1>
 
+![chat-app-ss](https://user-images.githubusercontent.com/51900017/119258479-60c08000-bbe7-11eb-888a-f768118edffb.png)
+
+
 <h1>➡️ About the project</h1>
 
 <h3>It's real-time simple chating website built using Socket.io and Node.js. In this website user can chat with different people in real time, he/she can create new group or enter into different group. User can use language mindfully, it means can't use profane words due to all messages are filtered before display.</h3>
